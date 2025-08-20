@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+input{
+    background-color: blueviolet;
+    color:darkblue;
+    font-size: 1,5rem;
+    border: 15px;
+}
